@@ -1,0 +1,9 @@
+C:\Users\janma\Demos\websocket-demo\websocket-demo\bin\Debug\websocket-demo.exe.config
+C:\Users\janma\Demos\websocket-demo\websocket-demo\bin\Debug\websocket-demo.exe
+C:\Users\janma\Demos\websocket-demo\websocket-demo\bin\Debug\websocket-demo.pdb
+C:\Users\janma\Demos\websocket-demo\websocket-demo\bin\Debug\websocket-sharp.dll
+C:\Users\janma\Demos\websocket-demo\websocket-demo\obj\Debug\websocket-demo.csproj.AssemblyReference.cache
+C:\Users\janma\Demos\websocket-demo\websocket-demo\obj\Debug\websocket-demo.csproj.CoreCompileInputs.cache
+C:\Users\janma\Demos\websocket-demo\websocket-demo\obj\Debug\websocket-demo.csproj.CopyComplete
+C:\Users\janma\Demos\websocket-demo\websocket-demo\obj\Debug\websocket-demo.exe
+C:\Users\janma\Demos\websocket-demo\websocket-demo\obj\Debug\websocket-demo.pdb
