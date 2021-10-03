@@ -10,7 +10,11 @@ console.log('Client connected...');
 
     socket.on('message', (msg)=>{
         console.log(`Received message ${msg}`);
-        socket.send(`becked ${msg}`);
+        
+        wsServer.clients.forEach((client)=>{
+            client.send('someone sent this:' + msg)
+        })
+
     })
 
 
