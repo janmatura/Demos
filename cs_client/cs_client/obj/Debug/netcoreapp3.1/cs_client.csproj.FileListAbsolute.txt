@@ -1,0 +1,16 @@
+C:\Users\Testovaci\Demos\cs_client\cs_client\bin\Debug\netcoreapp3.1\cs_client.exe
+C:\Users\Testovaci\Demos\cs_client\cs_client\bin\Debug\netcoreapp3.1\cs_client.deps.json
+C:\Users\Testovaci\Demos\cs_client\cs_client\bin\Debug\netcoreapp3.1\cs_client.runtimeconfig.json
+C:\Users\Testovaci\Demos\cs_client\cs_client\bin\Debug\netcoreapp3.1\cs_client.runtimeconfig.dev.json
+C:\Users\Testovaci\Demos\cs_client\cs_client\bin\Debug\netcoreapp3.1\cs_client.dll
+C:\Users\Testovaci\Demos\cs_client\cs_client\bin\Debug\netcoreapp3.1\cs_client.pdb
+C:\Users\Testovaci\Demos\cs_client\cs_client\bin\Debug\netcoreapp3.1\websocket-sharp.dll
+C:\Users\Testovaci\Demos\cs_client\cs_client\obj\Debug\netcoreapp3.1\cs_client.csprojAssemblyReference.cache
+C:\Users\Testovaci\Demos\cs_client\cs_client\obj\Debug\netcoreapp3.1\cs_client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Testovaci\Demos\cs_client\cs_client\obj\Debug\netcoreapp3.1\cs_client.AssemblyInfoInputs.cache
+C:\Users\Testovaci\Demos\cs_client\cs_client\obj\Debug\netcoreapp3.1\cs_client.AssemblyInfo.cs
+C:\Users\Testovaci\Demos\cs_client\cs_client\obj\Debug\netcoreapp3.1\cs_client.csproj.CoreCompileInputs.cache
+C:\Users\Testovaci\Demos\cs_client\cs_client\obj\Debug\netcoreapp3.1\cs_client.csproj.CopyComplete
+C:\Users\Testovaci\Demos\cs_client\cs_client\obj\Debug\netcoreapp3.1\cs_client.dll
+C:\Users\Testovaci\Demos\cs_client\cs_client\obj\Debug\netcoreapp3.1\cs_client.pdb
+C:\Users\Testovaci\Demos\cs_client\cs_client\obj\Debug\netcoreapp3.1\cs_client.genruntimeconfig.cache
